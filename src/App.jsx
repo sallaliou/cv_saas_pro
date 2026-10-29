@@ -988,7 +988,7 @@ export default function App() {
 
               {/* GitHub */}
               <a
-                href="https://github.com/aliou-daouda-sall"
+                href="https://github.com/sallaliou"
                 target="_blank"
                 rel="noreferrer"
                 className="card-hover p-4 rounded-[1.5rem] bg-white/[0.03] border border-white/10 hover:border-[#7B61FF]/60 block group"
@@ -999,7 +999,7 @@ export default function App() {
                 </div>
                 <div className="text-xs font-mono text-white/50">Codebase & Open Source</div>
                 <div className="text-sm font-semibold text-white">
-                  @aliou-daouda-sall
+                  @sallaliou
                 </div>
                 <div className="text-[10px] text-white/40 mt-1 font-mono">
                   Projets & Contributions
